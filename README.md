@@ -1,6 +1,6 @@
 
 
-1. **RF Module Setup (nRF24L01)**: 
+1. **RF Module Setup (NRF24L01)**: 
    - The code uses the `RF24` library to communicate with the nRF24L01 module. It is set up to listen for incoming data on a specific pipe (`pipeIn`).
    - Data received via the RF module controls the movement of the motors.
 
